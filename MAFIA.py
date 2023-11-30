@@ -1,0 +1,2 @@
+import ENCRIPTOR
+ENCRIPTOR.HOME().main()
